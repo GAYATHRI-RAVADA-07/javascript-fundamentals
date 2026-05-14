@@ -95,6 +95,23 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 ---
 
+### 5 - Arrays
+
+| Topics                                                | Code                                                                                 | Videos    | Length |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------ | --------- | -----: |
+| Introduction to Arrays                                | [arrays-intro](/tutorials/05-arrays/arrays-intro/)                                   | Demo      |        |
+| Creating Arrays of n Length                           | [creating-n-length](/tutorials/05-arrays/creating-n-length/)                         | Demo      |        |
+| Array Length, Indexing, and Bracket Notation          | [length-indexing-notation](/tutorials/05-arrays/length-indexing-notation/)           | Demo      |        |
+| Common Array Methods: Adding & Removing Elements      | [array-methods-add-remove](/tutorials/05-arrays/array-methods-add-remove/)           | Demo      |        |
+| Common Array Methods: Searching & Accessing Elements  | [array-methods-search-access](/tutorials/05-arrays/array-methods-search-access/)     | Demo      |        |
+| Common Array Methods: Combining & Extracting Elements | [array-methods-combine-extract](/tutorials/05-arrays/array-methods-combine-extract/) | Demo      |        |
+| Common Array Methods: Sorting & Reversing Elements    | [array-methods-sort-reverse](/tutorials/05-arrays/array-methods-sort-reverse/)       | Demo      |        |
+| Converting Between Strings & Arrays                   | [array-string-conversion](/tutorials/05-arrays/array-string-conversion/)             | Demo      |        |
+| Multi-Dimensional Arrays                              | [multi-dimensional-arrays](/tutorials/05-arrays/multi-dimensional-arrays/)           | Demo      |        |
+|                                                       |                                                                                      | **TOTAL** |        |
+
+---
+
 _...more coming soon!_
 
 ---
