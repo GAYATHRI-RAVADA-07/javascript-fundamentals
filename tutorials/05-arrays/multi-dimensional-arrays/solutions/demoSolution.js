@@ -26,6 +26,7 @@ let solarSystemMap = [
     ["Mercury", "Venus"],   // Row 0
     ["Earth", "Mars"],      // Row 1
     ["Jupiter", "Saturn"]   // Row 2
+    ["Uranus", "Neptune"]   // Row 3
 ];
 
 /** EXAMPLE 2 - ACCESSING NESTED DATA **/ 
